@@ -1,0 +1,454 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C2637164-5293-4A14-A695-9E1BD8F5E9E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Microfluor</RootNamespace>
+    <AssemblyName>Microfluor</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cell.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accord, Version=3.7.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Accord.3.7.0\lib\net46\Accord.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video, Version=3.7.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Accord.Video.3.7.0\lib\net46\Accord.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="Accord.Video.FFMPEG, Version=3.7.0.0, Culture=neutral, PublicKeyToken=fa1a88e29555ccf7, processorArchitecture=x86">
+      <HintPath>..\packages\Accord.Video.FFMPEG.3.7.0\lib\net46\Accord.Video.FFMPEG.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="DirectShowLib, Version=2.1.0.1599, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EmguCV\DirectShowLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.DebuggerVisualizers, Version=4.3.0.3890, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EmguCV\Emgu.CV.DebuggerVisualizers.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI">
+      <HintPath>..\..\EmguCV\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.World.Netstandard">
+      <HintPath>..\..\EmguCV\Emgu.CV.World.Netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="NumSharp.Core, Version=0.20.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\NumSharp.0.20.5\lib\netstandard2.0\NumSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ShiftCircleTrackbar">
+      <HintPath>.\ShiftCircleTrackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="camOptForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="camOptForm.designer.cs">
+      <DependentUpon>camOptForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorSlider.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ColorSlider.designer.cs">
+      <DependentUpon>ColorSlider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customizedKnob.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="customizedKnob.Designer.cs">
+      <DependentUpon>customizedKnob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="defaultSettingForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="defaultSettingForm.designer.cs">
+      <DependentUpon>defaultSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSetting.cs" />
+    <Compile Include="FrmSetting.designer.cs">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStackImageTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStackImageTest.Designer.cs">
+      <DependentUpon>FormStackImageTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCameraOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCameraOptions.designer.cs">
+      <DependentUpon>FrmCameraOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MakeMovable.cs" />
+    <Compile Include="ModifiedPictureBox.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="saveDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saveDataForm.Designer.cs">
+      <DependentUpon>saveDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="previewPictureBoxForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="previewPictureBoxForm.Designer.cs">
+      <DependentUpon>previewPictureBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="resultForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="resultForm.Designer.cs">
+      <DependentUpon>resultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="settingsWarningForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settingsWarningForm.designer.cs">
+      <DependentUpon>settingsWarningForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCncStageBottomSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCncStageBottomSide.Designer.cs">
+      <DependentUpon>UserControlCncStageBottomSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCncStageRightSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCncStageRightSide.Designer.cs">
+      <DependentUpon>UserControlCncStageRightSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLiveTabRightSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLiveTabRightSide.Designer.cs">
+      <DependentUpon>UserControlLiveTabRightSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlResultTabBottomSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlResultTabBottomSide.Designer.cs">
+      <DependentUpon>UserControlResultTabBottomSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlResultTabRightSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlResultTabRightSide.Designer.cs">
+      <DependentUpon>UserControlResultTabRightSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlTimeLapseRightSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlTimeLapseRightSide.Designer.cs">
+      <DependentUpon>UserControlTimeLapseRightSide.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlZStackRightSide.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlZStackRightSide.Designer.cs">
+      <DependentUpon>UserControlZStackRightSide.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="camOptForm.resx">
+      <DependentUpon>camOptForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColorSlider.resx">
+      <DependentUpon>ColorSlider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customizedKnob.resx">
+      <DependentUpon>customizedKnob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="defaultSettingForm.resx">
+      <DependentUpon>defaultSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSetting.resx">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStackImageTest.resx">
+      <DependentUpon>FormStackImageTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCameraOptions.resx">
+      <DependentUpon>FrmCameraOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="saveDataForm.resx">
+      <DependentUpon>saveDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="previewPictureBoxForm.resx">
+      <DependentUpon>previewPictureBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resultForm.resx">
+      <DependentUpon>resultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settingsWarningForm.resx">
+      <DependentUpon>settingsWarningForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCncStageBottomSide.resx">
+      <DependentUpon>UserControlCncStageBottomSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCncStageRightSide.resx">
+      <DependentUpon>UserControlCncStageRightSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLiveTabRightSide.resx">
+      <DependentUpon>UserControlLiveTabRightSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlResultTabBottomSide.resx">
+      <DependentUpon>UserControlResultTabBottomSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlResultTabRightSide.resx">
+      <DependentUpon>UserControlResultTabRightSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlTimeLapseRightSide.resx">
+      <DependentUpon>UserControlTimeLapseRightSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlZStackRightSide.resx">
+      <DependentUpon>UserControlZStackRightSide.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="cvextern.lib">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxSizeButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizeButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\normalSizeButtonIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mainLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blueUnPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenUnPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redUnPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whitePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whiteUnPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonFocusDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buttonFocusUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\finePressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fineUnPressed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stackEnd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stackStart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cell.ico" />
+    <Content Include="concrt140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="cvextern.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="msvcp140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="msvcp140_1.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="msvcp140_2.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="msvcp140_codecvt_ids.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="opencv_videoio_ffmpeg420_64.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\buttonBlueDisable.png" />
+    <Content Include="Resources\buttonGreenDisable.png" />
+    <Content Include="Resources\buttonRedDisable.png" />
+    <Content Include="Resources\buttonUvDisable.png" />
+    <Content Include="Resources\buttonWhiteDisable.png" />
+    <Content Include="Resources\disableBlack.png" />
+    <Content Include="Resources\disableBlueImage.png" />
+    <Content Include="Resources\disableGreenImage.png" />
+    <Content Include="Resources\disableRedImage.png" />
+    <Content Include="Resources\disableUvImage.png" />
+    <Content Include="Resources\disableWhiteImage.png" />
+    <Content Include="Resources\downBtn.png" />
+    <Content Include="Resources\floresans_startup_image.png" />
+    <Content Include="Resources\leftBtn.png" />
+    <Content Include="Resources\miniFluor_pageLogo.png" />
+    <Content Include="Resources\preview_button.png" />
+    <Content Include="Resources\preview_button_selected.png" />
+    <Content Include="Resources\result_button.png" />
+    <Content Include="Resources\result_button_selected.png" />
+    <Content Include="Resources\rightBtn.png" />
+    <Content Include="Resources\stage_button.png" />
+    <Content Include="Resources\stage_button_selected.png" />
+    <Content Include="Resources\StartPage_MiniFluor.png" />
+    <Content Include="Resources\timelapse_button.png" />
+    <Content Include="Resources\timelapse_button_selected.png" />
+    <Content Include="Resources\upBtn.png" />
+    <Content Include="Resources\uv_button_pressed.png" />
+    <Content Include="Resources\uv_button_unpressed.png" />
+    <Content Include="Resources\Zstack_button.png" />
+    <Content Include="Resources\Zstack_button_selected.png" />
+    <Content Include="vcruntime140.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="vcruntime140_1.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Accord.3.7.0\build\Accord.targets" Condition="Exists('..\packages\Accord.3.7.0\build\Accord.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Accord.3.7.0\build\Accord.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Accord.3.7.0\build\Accord.targets'))" />
+    <Error Condition="!Exists('..\packages\Accord.Video.FFMPEG.3.7.0\build\Accord.Video.FFMPEG.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Accord.Video.FFMPEG.3.7.0\build\Accord.Video.FFMPEG.targets'))" />
+  </Target>
+  <Import Project="..\packages\Accord.Video.FFMPEG.3.7.0\build\Accord.Video.FFMPEG.targets" Condition="Exists('..\packages\Accord.Video.FFMPEG.3.7.0\build\Accord.Video.FFMPEG.targets')" />
+</Project>

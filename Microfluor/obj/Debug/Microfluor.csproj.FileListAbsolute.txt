@@ -1,0 +1,421 @@
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.exe.config
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.exe
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.pdb
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.dll
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.Video.DirectShow.dll
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.Video.dll
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.customizedKnob.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.frmMain.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.FrmCameraOptions.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.Properties.Resources.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.GenerateResource.cache
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.CoreCompileInputs.cache
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.CopyComplete
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.exe
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.pdb
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControLiveTabBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\Microfluor.exe.config
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\Microfluor.exe
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\Microfluor.pdb
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\AForge.dll
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\AForge.Video.DirectShow.dll
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\bin\Debug\AForge.Video.dll
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.csprojAssemblyReference.cache
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.customizedKnob.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.frmMain.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.FrmCameraOptions.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.Properties.Resources.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.UserControLiveTabBottomSide2.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.UserControLiveTabBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackBottomSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.GenerateResource.cache
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.CoreCompileInputs.cache
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.CopyComplete
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.exe
+D:\FSM drive\Koc csharp project\Microfluor project\yedek\Microfluor\Microfluor\obj\Debug\Microfluor.pdb
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\ShiftCircleTrackbar.dll
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlLiveTabRightSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackRightSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlTimeLapseRightSide.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.ColorSlider.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabRightSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.exe.config
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.exe
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.pdb
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.exe
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\Microfluor.pdb
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.dll
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\AForge.Video.dll
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\bin\Debug\ShiftCircleTrackbar.dll
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.ColorSlider.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.customizedKnob.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.frmMain.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.FrmCameraOptions.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.Properties.Resources.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControLiveTabBottomSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlLiveTabRightSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabBottomSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabRightSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlTimeLapseRightSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackBottomSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackRightSide.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csproj.GenerateResource.Cache
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csprojResolveAssemblyReference.cache
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.csprojAssemblyReference.cache
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.FormStackImageTest.resources
+D:\FSM drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.MainForm.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.FormStackImageTest.resources
+C:\Users\msa\FSM Drive\Koc csharp project\Microfluor project\Microfluor\Microfluor\obj\Debug\Microfluor.MainForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Microfluor.exe.config
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Microfluor.exe
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Microfluor.pdb
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\AForge.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\AForge.Video.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\ShiftCircleTrackbar.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.csprojAssemblyReference.cache
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.ColorSlider.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.customizedKnob.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.FormStackImageTest.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.FrmCameraOptions.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.MainForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.Properties.Resources.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControLiveTabBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlLiveTabRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlResultTabBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlResultTabRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlTimeLapseRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlZStackBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlZStackRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.csproj.GenerateResource.cache
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.csproj.CoreCompileInputs.cache
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.csproj.CopyComplete
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.exe
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.pdb
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\FrmDrag.saveDataForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.UserControlTimeLapseBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\AForge.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\avcodec-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\avdevice-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\avfilter-6.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\avformat-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\avutil-55.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\postproc-54.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\swresample-2.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\swscale-4.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.dll.config
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.Video.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.Video.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.previewPictureBoxForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.resultForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\DirectShowLib.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\CircularProgressBar.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\WinFormAnimation.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\CircularProgressBar.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.LoadingForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\concrt140.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\cvextern.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\msvcp140.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\msvcp140_1.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\msvcp140_2.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\vcruntime140.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\opencv_videoio_ffmpeg420_64.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\vcruntime140_1.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\cvextern.lib
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\netstandard.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.AppContext.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Collections.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Collections.Specialized.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ComponentModel.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Console.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Data.Common.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Globalization.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.Compression.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.FileSystem.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.Pipes.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Linq.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Linq.Expressions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Linq.Parallel.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Linq.Queryable.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Http.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.NameResolution.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Ping.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Requests.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Security.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.Sockets.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Net.WebSockets.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ObjectModel.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Reflection.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Resources.Reader.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Resources.Writer.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Handles.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Claims.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.Principal.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Security.SecureString.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Text.Encoding.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.Tasks.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.Thread.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Threading.Timer.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.ValueTuple.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.XDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.XPath.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Emgu.CV.UI.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\Emgu.CV.World.Netstandard.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.exe.config
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\NumSharp.Core.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Buffers.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Memory.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\NumSharp.Core.pdb
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Buffers.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Memory.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.camOptForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.defaultSettingForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.FrmSetting.resources
+C:\Users\optof\OneDrive\Masaüstü\Microfluor_26_08_2020\Microfluor\obj\Debug\Microfluor.settingsWarningForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\avcodec-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\avdevice-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\avfilter-6.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\avformat-57.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\avutil-55.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\postproc-54.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\swresample-2.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\swscale-4.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\concrt140.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\cvextern.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\msvcp140.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\msvcp140_1.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\msvcp140_2.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\opencv_videoio_ffmpeg420_64.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\vcruntime140.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\vcruntime140_1.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.dll.config
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\cvextern.lib
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Microfluor.exe.config
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Microfluor.exe
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Microfluor.pdb
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\netstandard.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.AppContext.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Collections.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Collections.Specialized.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ComponentModel.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Console.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Data.Common.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Globalization.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.Compression.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.FileSystem.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.Pipes.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Linq.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Linq.Expressions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Linq.Parallel.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Linq.Queryable.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Http.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.NameResolution.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Ping.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Requests.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Security.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.Sockets.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Net.WebSockets.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ObjectModel.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Reflection.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Resources.Reader.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Resources.Writer.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Handles.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Claims.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.Principal.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Security.SecureString.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Text.Encoding.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.Tasks.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.Thread.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Threading.Timer.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.ValueTuple.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.XDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.XPath.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.Video.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\AForge.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\AForge.Video.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\CircularProgressBar.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\NumSharp.Core.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\ShiftCircleTrackbar.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Buffers.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Memory.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\WinFormAnimation.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.Video.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\AForge.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\CircularProgressBar.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\NumSharp.Core.pdb
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Buffers.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Memory.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.csprojAssemblyReference.cache
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.exe.config
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.camOptForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.ColorSlider.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.customizedKnob.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.defaultSettingForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.FrmSetting.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.LoadingForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.FormStackImageTest.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.FrmCameraOptions.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.MainForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.Properties.Resources.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\FrmDrag.saveDataForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.previewPictureBoxForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.resultForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.settingsWarningForm.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlLiveTabRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlResultTabRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlTimeLapseRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlZStackRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.csproj.GenerateResource.cache
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.csproj.CoreCompileInputs.cache
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.csproj.CopyComplete
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.exe
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.pdb
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlCncStageBottomSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\obj\Debug\Microfluor.UserControlCncStageRightSide.resources
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\ZedGraph.dll
+C:\Users\optof\OneDrive\Masaüstü\Floresans\microfluor\Microfluor\bin\Debug\ModifiedPictureBox.cs
